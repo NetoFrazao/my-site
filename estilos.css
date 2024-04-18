@@ -1,4 +1,17 @@
-h1 { 
+h1 {
+    color: aquamarine;
+    font-size: 38px;
+  }
+  
+  body {
+    background-color: black;
+    text-align: center;
+  }
+  
+  h2 {
     color: aqua;
-    font-size: 38px
-}
+  }
+  
+  h3 {
+    color: red;
+  }
