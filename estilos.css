@@ -1,9 +1,39 @@
 h1 {
-    color: aquamarine;
-    font-size: 38px;
+    color: black;
+    font-size: 28px;
   }
+
+h2 {
+  color: black;
+  font-size: 28px;
+
+}
+
+h3 {
+  color: black;
+  font-size: 28px;
+
+}
+
+h4 {
+  color: black;
+  font-size: 28px;
+
+}
+
+h5 {
+  color: black;
+  font-size: 28px;
+
+}
+
+h6 {
+  color: black;
+  font-size: 28px;
+
+}
   
   body {
-    background-color: green;
-    text-align: center;
+    background-color: aqua;
+
   }
